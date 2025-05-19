@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nasco.startkit_crud_flutter",
+      "sha256_cert_fingerprints": [
+        "47:5A:2E:D0:48:51:80:B3:03:7F:DB:B3:A6:A5:F2:6D:39:AF:29:31:AE:AE:4A:2A:AA:8D:F6:1B:95:67:91:01"
+      ]
+    }
+  }
+]
